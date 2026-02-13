@@ -1,7 +1,5 @@
 # Jupyter Notebook
 *.ipynb linguist-detectable=true
-*.ipynb linguist-language=Jupyter Notebook
-*.ipynb diff=ipynb
 
 # Data Files
 *.csv text
