@@ -3,7 +3,7 @@
 * **Author:** Cheisa Billy Putra Antoni
 * **Date:** 31 Jan 2026
 * **Type:** Supervised Learning
-* **Goals:** House Price Prediction Model
+* **Goals:** House Prices Prediction Model
 
 ---
 
@@ -97,7 +97,7 @@ The model is built using a Machine Learning algorithm, namely **Linear Regressio
 
 ## 6. Model Evaluation
 
-### 6.1. Acurracy of Model
+### 6.1. Evaluation Metrics
 Evaluation is performed using testing data to measure the model’s performance on data it has never seen before. The evaluation metrics used and their results are as follows:
 ```text
 MSE		    : 54.58094520086212
